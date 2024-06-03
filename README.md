@@ -101,6 +101,7 @@ https://github.com/vibhorjoshi/multi_language_app/assets/105739194/9075caa8-330a
 ## Project Structure
 
 multi_language_app/
+
 │
 ├── app.py
 
