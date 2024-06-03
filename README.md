@@ -103,9 +103,13 @@ https://github.com/vibhorjoshi/multi_language_app/assets/105739194/9075caa8-330a
 multi_language_app/
 │
 ├── app.py
+
 ├── translator.py
+
 ├── speech_recog.py
+
 ├── requirements.txt
+
 ├── venv/ # Virtual environment directory
 │
 └── audio/ # Directory to store audio files for speech recognition
