@@ -125,3 +125,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
+## Deployment
+
+You can access the deployed version of this application [here](https://multilanguageapp-9e6nebldpwa4qfdcrwnn3n.streamlit.app/).
